@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=text\ find\ replace
+comment0.target=java.lang.String\ findAndReplace(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=1
